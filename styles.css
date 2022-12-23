@@ -20,7 +20,7 @@ body{
     width: 25%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background-image: url("C:/Users/dharm/Downloads/image 12.png");
+    background-image: url("images/image 12.png");
     background-size: cover;
     border-radius: 30px;
 }
